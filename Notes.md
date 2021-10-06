@@ -1,6 +1,14 @@
 
 ## Notes
 
-- Asynchronous functions of JS
-- Promises
-- ES6 features of JS
+ - Document Object Model
+ - Two Way Data Binding
+
+ 	## Template Strings
+ 	 - Backticks (``)
+
+ 	## Vue Topics
+ 	- Data properties
+ 	- Methods
+ 	- Computed
+
